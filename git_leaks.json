@@ -1,0 +1,397 @@
+{
+  "1": [
+    "48f79dd795fd47701f8f043d2c8d46e7b244a4c5",
+    "Rename secrets\n",
+    "secret"
+  ],
+  "2": [
+    "7a0f3705eef1b06274baa9a24255e8b83985575b",
+    "Fix already verified error\n",
+    "error"
+  ],
+  "3": [
+    "121689192840a81536dc7add0bd6852fbac33aa2",
+    "Fix typescript errors in migration scripts\n",
+    "error"
+  ],
+  "4": [
+    "1ed4a526a24fd4bb0673459a2225a4a1fc8f1551",
+    "Fix typescript errors in tests\n",
+    "error"
+  ],
+  "5": [
+    "377b839ef6a8346bbad96d10a27a630f17e32e72",
+    "SKALE-4695 Change error message\n",
+    "error"
+  ],
+  "6": [
+    "b832f7b4c55b9d5b5ef2d4e602f6494bfbd7ec36",
+    "SKALE-4691 Fix error during role granting\n",
+    "error"
+  ],
+  "7": [
+    "f76299a48351e16c6a9c1a13757ed8c4e5e965bc",
+    "Fix error on dependencies update\n",
+    "error"
+  ],
+  "8": [
+    "83d30cbe7f38ecacf0ce23e4ca987fb93b85a955",
+    "SKALE-3318 Fix version error during manifest updating\n",
+    "error"
+  ],
+  "9": [
+    "69a5b29d43c08312395fefeacae825f3ae6acfcf",
+    "SKALE-3318 Fix error in gas estimation\n",
+    "error"
+  ],
+  "10": [
+    "8c05b6e0efe8c7082f1f5510d5505829524a6031",
+    "SKALE-3894 fix slither error and add SchainsInternal into functions\n",
+    "error"
+  ],
+  "11": [
+    "820d0821ad1b96921570640d377bc4a10e3d9df2",
+    "SKALE-3513 Fix indexing error in random element\n",
+    "error"
+  ],
+  "12": [
+    "adaa2dbfb1063188beaa3f205bcf02ef7f494eeb",
+    "SKALE-3513 Fix error in RandomGenerator\n",
+    "error"
+  ],
+  "13": [
+    "f922accc68af651ef1bb6097aaae7b8ba8b77395",
+    "Add error handling of low-level calls\n",
+    "error"
+  ],
+  "14": [
+    "7e9f990a7b33214aa03fe368eb8968b2dae03c75",
+    "Fix domain names after update error\n",
+    "error"
+  ],
+  "15": [
+    "a637e484715ebd686fa96a365864413b61b1a067",
+    "SKALE-3505 Return error messages\n",
+    "error"
+  ],
+  "16": [
+    "88a828c79461d7e7f33e0a6f53799e600a712a29",
+    "Merge pull request #464 from skalenetwork/hotfix/node-js-memory-increase-beta\n\nHotfix: fix node js memory error",
+    "error"
+  ],
+  "17": [
+    "fc943b6a3889fc6c0b6bd0ed0819f4113577888f",
+    "Hotfix: fix node js memory error\n",
+    "error"
+  ],
+  "18": [
+    "e89473a5a3a613edc491804530e1d05ab0dc9475",
+    "Merge pull request #438 from skalenetwork/bug/SKALE-3273-populating-error\n\nSKALE-3273 Fix BountyV2 populating error",
+    "error"
+  ],
+  "19": [
+    "632fc5eef334d7b764c72d39444b3c37133aad8e",
+    "SKALE-3273 Fix BountyV2 populating error\n",
+    "error"
+  ],
+  "20": [
+    "92b814d50575a6519b66d1a154d4cdc8a5c65cd4",
+    "SKALE-3273 Fix error in NodesMock\n",
+    "error"
+  ],
+  "21": [
+    "4c80ae1a14472520ec8457022e4533506246dae8",
+    "SKALE-3273 Fix error on node removing\n",
+    "error"
+  ],
+  "22": [
+    "eb58d2dec2f903db4276ec6c258412b4381ddda4",
+    "SKALE-3273 Change back error messages\n",
+    "error"
+  ],
+  "23": [
+    "9c3f898f51ee62beb172199558d572f543db23ed",
+    "SKALE-3273 Fix access error in BountyV2\n",
+    "error"
+  ],
+  "24": [
+    "3d0133c40ecb50d8881edc7d2f4c1820867cfffe",
+    "SKALE-3273 Update inflation test and fix error in getEpochReward function\n",
+    "error"
+  ],
+  "25": [
+    "a0ad05a5bea1b42ef9838e4449db6216667de07f",
+    "SKALE-2837 fix compilation error\n",
+    "error"
+  ],
+  "26": [
+    "8939739b6a1044a53f79f5f894713c24f497afe9",
+    "SKALE-2837 Add more tests and make complaint never revert but show error message\n",
+    "error"
+  ],
+  "27": [
+    "8e84f406f7653dafb198b2bc6be0d22131b0e893",
+    "Fix error in checking production variable\n",
+    "error"
+  ],
+  "28": [
+    "62355629a4b0c7b557ae3940f0375c033048afb3",
+    "Fix error in checking production variable\n",
+    "error"
+  ],
+  "29": [
+    "21a84cbf5fc2185757ae7064ecaada7c7ca598b4",
+    "Fix error in checking production variable\n",
+    "error"
+  ],
+  "30": [
+    "16677bc5e3c7f62ef053b70940ecd30de6396fc5",
+    "Fix linting errors\n",
+    "error"
+  ],
+  "31": [
+    "74824ff9e42a005c6642e63a5ab46dcdb6516848",
+    "SKALE-2063 Fix grammar error in require\n",
+    "error"
+  ],
+  "32": [
+    "417ed5505478cd79acd9912c119489030427df53",
+    "SKALE-2625 Rename secretKeyContribution argument\n",
+    "secret"
+  ],
+  "33": [
+    "e2abc09236c503df647eb4c5b52aaf7ee2b27c49",
+    "Merge pull request #240 from skalenetwork/enhancement/SKALE-2640-error-message\n\nSKALE-2640 Change error message on delegatin approval",
+    "error"
+  ],
+  "34": [
+    "86f182b4a4d864f88994b050a9a4c15d4675cd38",
+    "SKALE-2640 Change error message on delegatin approval\n",
+    "error"
+  ],
+  "35": [
+    "c0d2a35bac4cf4825fc30c5ced4d37f8ee67f1e2",
+    "Fixed errors\n",
+    "error"
+  ],
+  "36": [
+    "79e5dcba311d9a0a6964981af1615c636f43c820",
+    "SKALE-2477 Fix linter errors\n",
+    "error"
+  ],
+  "37": [
+    "de7ddb2377ee04ca042929f5a07b5c4261022b16",
+    "SKALE-2477 Fix docstring errors\n",
+    "error"
+  ],
+  "38": [
+    "c703297613a8aa5e7733a7110cd96bee06cb05c0",
+    "Merge pull request #130 from skalenetwork/enhancement/SKALE-2347-rounding-errors\n\nEnhancement/skale 2347 rounding errors",
+    "error"
+  ],
+  "39": [
+    "78b744d837e2071044afd35053ca0a126f020980",
+    "Merge branch 'develop' into enhancement/SKALE-2347-rounding-errors",
+    "error"
+  ],
+  "40": [
+    "c325d8701b10859195ae51b70f31cfa186595323",
+    "Merge branch 'develop' into enhancement/SKALE-2347-rounding-errors",
+    "error"
+  ],
+  "41": [
+    "60d9ac751a0d2bb4ff430768eae65e15792a2766",
+    "SKALE-2354 fixed error in function modificators\n",
+    "error"
+  ],
+  "42": [
+    "0c421b64f5c4fcfa09adca7d4eb3d7772862312a",
+    "SKALE-2354 fixing compiling error\n",
+    "error"
+  ],
+  "43": [
+    "8d35048dbfee0ec0b511fb34ead4f3470df7cf48",
+    "Merge pull request #123 from skalenetwork/bug/travis-errors\n\nBug/travis errors",
+    "error"
+  ],
+  "44": [
+    "9db7e0f3fa583d622150a1e81ab2ed6d84ad899d",
+    "fixed error with compile in buidler config\n",
+    "error"
+  ],
+  "45": [
+    "9e86b9c613e5efd3d3e0da68145073ff72fde2b9",
+    "Merge branch 'develop' of https://github.com/skalenetwork/skale-manager into bug/travis-errors\n",
+    "error"
+  ],
+  "46": [
+    "6d669f1c4febba29a11c14c3dae99418c608948e",
+    "fixed emitting errors on travis\n",
+    "error"
+  ],
+  "47": [
+    "baf7f351b5d4a0445e2a9f92af55c64f5cf0a31f",
+    "fixed emitting errors on travis\n",
+    "error"
+  ],
+  "48": [
+    "167b8243fdec0ca2d31e8a081d4ecb3949f0b778",
+    "Ignore error if can't setup git hooks\n",
+    "error"
+  ],
+  "49": [
+    "631bd6f07d81340b002fe6bcbaaed0e01692d3a9",
+    "SKALE-2144 fixed error in coverage\n",
+    "error"
+  ],
+  "50": [
+    "e1de71045585850b9c8eea756d09f01a8235efdb",
+    "SKALE-2028 fixed compilation error\n",
+    "error"
+  ],
+  "51": [
+    "c10d3995f5d38f282be1724909b54cd1db9c9ad5",
+    "SKALE-2049 Fix errors in SkaleManager\n",
+    "error"
+  ],
+  "52": [
+    "10cdf8e1ab46548531073836e32aa7707707ba52",
+    "Fix linter errors\n",
+    "error"
+  ],
+  "53": [
+    "2a6418ab16c9895c596705f4a71dae9d3af06235",
+    "Fix merge error",
+    "error"
+  ],
+  "54": [
+    "c8e5468a865fd5a60a031623bff28b2720cf508c",
+    "Fixed another errors\n",
+    "error"
+  ],
+  "55": [
+    "2f3d0106d08f10b9fa7af1e5af4b91f39259f363",
+    "Fixed another errors\n",
+    "error"
+  ],
+  "56": [
+    "be6874ffe7fe9f0fcc794d29196ee718adc13126",
+    "Fixed errors\n",
+    "error"
+  ],
+  "57": [
+    "afe8d6c9ccb561f6b4a1561428a6b237f2762498",
+    "Fixed some errors\n",
+    "error"
+  ],
+  "58": [
+    "f289c80a5d89a697a7b6459061e2d96047c2f445",
+    "SKALE-1709 Fix error in bounty distribution test\n",
+    "error"
+  ],
+  "59": [
+    "6d70385332d1271d68f620906738ad2c414f2e2a",
+    "SKALE-1829 Fix error in delegation request cancelling\n",
+    "error"
+  ],
+  "60": [
+    "16354ebbc6a7ccc6ac893db404aaf352a85f9445",
+    "SKALE-1620 fixed compile errors before pull\n",
+    "error"
+  ],
+  "61": [
+    "eb69b6f301b6b58fb1c66c2c3dbc3a009b3a36da",
+    "SKALE-1642 Fix errors in DelegationService\n",
+    "error"
+  ],
+  "62": [
+    "59f794a9bf1bab97b152813cd4fb957fbd773420",
+    "Fixed ts lint error\n",
+    "error"
+  ],
+  "63": [
+    "f7ea30089a217b1977a21741459989b3568b31a7",
+    "SKALE-1642 Fix compilation errors\n",
+    "error"
+  ],
+  "64": [
+    "29cafc3765b1b94b8c16534fc6f53b42fcc5122b",
+    "SKALE-1818 Fix linter errors\n",
+    "error"
+  ],
+  "65": [
+    "4c84a5f31c4db3fb6fb1633bc921eea477d3b020",
+    "Fixed some errors\n",
+    "error"
+  ],
+  "66": [
+    "49cf63afa89a45eb8cefa5ed15bc5bee2a89c9f6",
+    "Fixed small naming error in SkaleVerifier\n",
+    "error"
+  ],
+  "67": [
+    "6b5628b9b956e41bd40c62057b67e9d421c39226",
+    "Fixed slither errors\n",
+    "error"
+  ],
+  "68": [
+    "d3e032cb4de47f5ef571ae79fddc815225cdfa67",
+    "Fixed slither errors\n",
+    "error"
+  ],
+  "69": [
+    "1eca7cda2b6e070fe8ffaf3d53b193d5de096940",
+    "SKALE-1464 Fixed gas leak\n",
+    "leak"
+  ],
+  "70": [
+    "cfcca2ae8d6ed2c0d698010fae454538156cb8b7",
+    "Fix travis error\n",
+    "error"
+  ],
+  "71": [
+    "cf42f5c01c7156f2ba086bb6d60f95c31b100612",
+    "Change travis to avoid error\n",
+    "error"
+  ],
+  "72": [
+    "4c142970e6744695a1fa167fb0e5930f93dba5a9",
+    "SKALE-1367 Fix memory error\n",
+    "error"
+  ],
+  "73": [
+    "a4d4ca0c729a4ecb6c83ae04edf4799b0d177515",
+    "SKALE-1367 Fix memory error\n",
+    "error"
+  ],
+  "74": [
+    "4f720f0dcbfbab6ee15f9903fc4da488a33cc0de",
+    "SKALE-1367 Fix error with duplicates\n",
+    "error"
+  ],
+  "75": [
+    "6f2991a48d8646bb9e079e38b4888f14390bc154",
+    "SKALE-1359 Fix compilation error\n",
+    "error"
+  ],
+  "76": [
+    "ddcbdf9bf5b0bd076c7862b32f06f8fe19af9a99",
+    "SKALE-1359 Fix errors in IGroupsData interface\n",
+    "error"
+  ],
+  "77": [
+    "7d55fe00ded697f85cdf34bda9b3e65f02298a2b",
+    "SKALE-1240 Fix error-reason warning\n",
+    "error"
+  ],
+  "78": [
+    "71bb325b224a28a53d5f8aaea0df7f95011c6997",
+    "SKALE-815 Fix typescript errors\n",
+    "error"
+  ],
+  "79": [
+    "ab24a7f5391878af447eb8d43d31c39418b4eddd",
+    "Fix tslint errors; rename constants -> constantsholder where needed\n",
+    "error"
+  ]
+}
