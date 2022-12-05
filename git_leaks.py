@@ -10,13 +10,14 @@ KEY_WORDS = ['leak', 'secret', 'crash', 'error']
 
 
 def gest_excepcion(signal, frame):
+    # Gestión de excpeiciones 
     print("\nHA HABIDO UNA EXCPECIÓN")
     print("SE VHA SALIDO DEL PROGRAMA\n")
     sys.exit(1)
 
 
 def extract(REPO_DIR):
-
+    
     repo = Repo(REPO_DIR)           # Se extrae el repositorio
 
     return repo
@@ -37,7 +38,7 @@ def transform(repo, KEY_WORDS):
 
 def load(leaks):
     contador = 1
-
+    # Se va a presentar cada commit con un número
     for commit in leaks:
         mensaje = re.sub(r"\n", "", commit[0].message)
         print(
